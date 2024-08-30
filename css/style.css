@@ -81,4 +81,13 @@
                 font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
                 font-weight: bolder;
                 text-align: center;
+                font-size:170%;
+                font-style: oblique;
             }
+            .NameGroup{
+                text-align: center;
+                font-size: 180%;
+                background-color:rgb(233, 197, 150);
+                font-style:inherit;
+            }
+        
