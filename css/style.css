@@ -1,0 +1,73 @@
+
+        /* .PartOne>h3{
+            font-family:Arial, Helvetica, sans-serif;
+            font-size:large;
+            font-style :italic
+        }
+        .PartTwo>ol>li:first-child{
+            font-style: italic;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        .FiveOfTheBest .BanhMi>h4{
+        color: blueviolet;
+        }
+        .FiveOfTheBest .RuouGao>h4
+        {
+            color: rgb(0, 162, 255);
+           font-weight:800;
+           font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           font-style: italic;
+        }
+        .PartTwo{
+            text-align: center;
+        } */
+
+
+
+
+
+        
+        h1{
+                text-align:center;
+            }
+            .Location{
+                color: blueviolet;
+                font-size: 25px;
+                font-weight: bold;
+            }
+            .name{
+                font-family: Arial, Helvetica, sans-serif;/*kiểu chữ */
+                font-style: italic; /* font chu*/
+            }
+            .Part1 a{
+                text-decoration: none; /* xóa gạch*/
+                color:#FF0000
+            ;
+            color :blue
+            }
+            .BoiDam{
+                font-weight: bold;
+                font-size: 20px;
+            }
+            .Title{
+                display: flex;
+            }
+            .Title_1{
+                text-align: end;
+                width: 68%;
+                background-color: aquamarine;
+                padding-top: 10px;
+            }
+            .Title_2{
+                width: 28%;
+                margin-left: 70%;
+            }
+            .bo{
+                display: flex;
+            }
+            .bo1{
+                width: 48%;
+            }
+            .bo2{
+                width: 48%;
+            }
