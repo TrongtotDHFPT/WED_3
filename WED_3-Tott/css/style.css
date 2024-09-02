@@ -1,94 +1,105 @@
+
+h1{
+        text-align:center;
+    }
+    .Location{
+        color: blueviolet;
+        font-size: 25px;
+        font-weight: bold;
+    }
+    .name{
+        font-family: Arial, Helvetica, sans-serif;/*kiểu chữ */
+        font-style: italic; /* font chu*/
+    }
+    .Part1 a{
+        text-decoration: none; /* xóa gạch*/
+        color:#FF0000
+    ;
+    color :blue
+    }
+    .BoiDam{
+        font-weight: bold;
+        font-size: 20px;
+    }
+    .Title{
+        display: flex;
+    }
+    .Title_1{
+        text-align: end;
+        width: 88%;
+        background-color: aquamarine;
         
-        h1{
-                text-align:center;
-            }
-            .Location{
-                color: blueviolet;
-                font-size: 25px;
-                font-weight: bold;
-            }
-            .name{
-                font-family: Arial, Helvetica, sans-serif;/*kiểu chữ */
-                font-style: italic; /* font chu*/
-            }
-            .Part1 a{
-                text-decoration: none; /* xóa gạch*/
-                color:#FF0000
-            ;
-            color :blue
-            }
-            .BoiDam{
-                font-weight: bold;
-                font-size: 20px;
-            }
-            .Title{
-                display: flex;
-            }
-            .Title_1{
-                text-align: end;
-                width: 88%;
-                background-color: aquamarine;
-               
-                padding-top: 10px;
-                background-position: bottom 60px right 20px;
-            }
-            .Title_2{
-                width: 8%;
-                padding-left: 50px;
-           
-               
-            }
-            .bo{
-                display: flex;
-            }
-            .bo1{
-                width: 48%;
-            }
-            .bo2{
-                width: 48%;
-                padding-left: 30px;
-            }
-
-            .header{
-                background-color: cadetblue;
-                display: flex;
-            }
-            .Slogan{
-                width: 33%;
-                font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-                font-weight: bolder;
-                text-align: center;
-                font-size:170%;
-                font-style: oblique;
-            }
-            .NameGroup{
-                text-align: center;
-                font-size: 180%;
-                background-color:rgb(233, 197, 150);
-                font-style:inherit;
-            }
-            .footer{
-                background-color: rgb(1, 21, 42);
-                text-align: center;
-                font-style: inherit;
-                font-weight: bolder;
-                color: #f9f7f7;
-                
-
-            }
-            .footer_1{
-                font-size: 300%; 
-                color: #fafafa;
-                margin-bottom: -2%;
-                padding: 5%;
-            }
-            .footer_2{
-                font-weight: bold;
-                font-size: 25px;
-
-            }
-            .footer_3{
-                
-            }
-            
+        padding-top: 10px;
+        background-position: bottom 60px right 20px;
+        margin-left: -1%;
+    }
+    .Title_2{
+        width: 8%;
+        padding-left: 50px;
+    
         
+    }
+    .bo{
+        display: flex;
+    }
+    .bo1{
+        width: 48%;
+    }
+    .bo2{
+        width: 48%;
+        padding-left: 30px;
+    }
+
+    .header{
+        background-color: cadetblue;
+        display: flex;
+        margin-left: -1%;
+        margin-right: -1%;
+        
+    }
+    .Slogan{
+        width: 33%;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: bolder;
+        text-align: center;
+        font-size:170%;
+        font-style: oblique;
+    }
+    .NameGroup{
+        text-align: center;
+        font-size: 180%;
+        background-color:rgb(233, 197, 150);
+        font-style:inherit;
+        /* margin: -1%;
+        margin-bottom: 0.00001%; */
+        margin-left: -1%;
+        margin-right:-1%;
+
+
+    }
+    .footer{
+        background-color: rgb(1, 21, 42);
+        text-align: center;
+        font-style: inherit;
+        font-weight: bolder;
+        color: #f9f7f7;
+        margin: -1%;
+        margin-bottom: -5%;
+        
+
+    }
+    .footer_1{
+        font-size: 300%; 
+        color: #fafafa;
+        margin-bottom: -2%;
+        padding: 5%;
+    }
+    .footer_2{
+        font-weight: bold;
+        font-size: 25px;
+
+    }
+    .footer_3{
+        
+    }
+    
